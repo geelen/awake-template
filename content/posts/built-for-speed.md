@@ -1,6 +1,6 @@
 ---
 title: THE BLAZINGEST!!!!!111one
-subtitle: Awake is Built to Be Blazing Fast
+subtitle: Never stop blazing. NEVER.
 category:
   - About Awake
 author: Daniel Kelly
