@@ -1,5 +1,5 @@
 ---
-title: THE BLAZINGEST For Speed
+title: THE BLAZINGEST!!!!!111one
 subtitle: Awake is Built to Be Blazing Fast
 category:
   - About Awake
